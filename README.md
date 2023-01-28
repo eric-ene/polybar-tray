@@ -3,8 +3,8 @@ System tray module and script for polybar
 
 ## Installation
 1. Drag the executable sub_bar into a folder in the $PATH environment variable such as /usr/local/bin. You can either:
-  - Get the pre-compiled executable provided, or if you feel the need to make changes to it:
-  - Make whichever changes you want to subbar.c and compile it.
+    - Get the pre-compiled executable provided, or if you feel the need to make changes to it:
+    - Make whichever changes you want to subbar.c and compile it.
  
 2. Copy the contents of of copy_these.ini into the appropriate Polybar config files.
 
