@@ -6,7 +6,7 @@ System tray module and script for polybar
     - Get the pre-compiled executable provided, or if you feel the need to make changes to it:
     - Make whichever changes you want to subbar.c and compile it.
  
-2. Copy the contents of of copy_these.ini into the appropriate Polybar config files.
+2. Copy the contents of copy_these.ini into the appropriate Polybar config files.
 
 ## Usage
 1. Add the module "systray" to your Polybar like you would any other module.
