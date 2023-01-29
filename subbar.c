@@ -21,5 +21,7 @@ int main(void) {
         system(kill);
     }
 
+    free(kill);
+    free(buffer);
     fclose(xprop);
 }
